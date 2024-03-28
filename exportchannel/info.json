@@ -9,7 +9,7 @@
         "messages",
         "html"
     ],
-    "requirements": ["git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git", "chat-exporter"],
+    "requirements": ["git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git", "git+https://github.com/mahtoid/DiscordChatExporterPy@2.7.0"],
     "min_bot_version": "3.5.0",
     "end_user_data_statement": "This cog does not persistently store data or metadata about users."
 }
